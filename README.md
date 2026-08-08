@@ -17,7 +17,7 @@ The dashboard provides insights into revenue, costs, profitability and budget pe
 
 - Microsoft Excel
 - Power Query
-- Microsoft Power BI
+- Tableau
 - DAX
 
 ## 📈 Dashboard
